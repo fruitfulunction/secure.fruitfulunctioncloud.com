@@ -1,1 +1,2 @@
-# secure.fruitfulunctioncloud.com
+www.fruitfulunctioncloud.com
+ja.fruitfulunctioncloud.com
